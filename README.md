@@ -8,7 +8,7 @@ Here we will address the problem using Generalized Linear Models, Tree based alg
 Your client is the city council of Boston, MA.  The council shared with you the attached data set and a data dictionary. The Boston city council leadership is interested in understanding the drivers behind the value of houses in Boston and are looking for data-driven recommendations on how they can increase the value of housing.
 
 ## Data Description
-This dataset contains information collected by the US Census Service concerning housing in the area of Boston Massachusetts. It was obtained from the StatLib archive (http://lib.stat.cmu.edu/datasets/boston). The dataset has 506 cases and each of the 506 entries represents aggregate information about 14 features of homes from various suburbs located in Boston.
+This dataset contains information collected by the US Census Service concerning housing in the area of Boston Massachusetts. It was obtained from the StatLib archive (http://lib.stat.cmu.edu). The dataset has 506 cases and each of the 506 entries represents aggregate information about 14 features of homes from various suburbs located in Boston.
 
 The data was originally published by Harrison, D. and Rubinfeld, D.L. `Hedonic prices and the demand for clean air', J. Environ. Economics & Management, vol.5, 81-102, 1978. 
 
@@ -54,7 +54,7 @@ pip3 install -r requirements.txt
 
 ## Run
 
-To run the notebook, open terminal or command window, navigate to the top-level project directory `Regression-Case_1-Level_E0/` (that contains this README) and run one of the following commands:
+To run the notebook, open terminal or command window, navigate to the top-level project directory `Regression-Models/` (that contains this README) and run one of the following commands:
 
 ```bash
 ipython notebook Exploratory data analysis.ipynb
