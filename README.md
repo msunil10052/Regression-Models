@@ -2,7 +2,7 @@
 
 This is the Repository for Machine Learning and Deep Learning Models to predict a continuous-valued attribute associated with an object. The objective of case study is to compare various models with minimal feature engineering techniques.
 
-Here we will address the problem using Generalized Linear Models, Tree based algorithms, Ensemble Methods and Neural Network based Methods
+Here we will address the problem using Linear Regression, Generalized Linear Models (ridge/lasso regression), Tree based algorithms, Ensemble Methods and Neural Network based Methods
 
 ## Problem Statement
 Your client is the city council of Boston, MA.  The council shared with you the attached data set and a data dictionary. The Boston city council leadership is interested in understanding the drivers behind the value of houses in Boston and are looking for data-driven recommendations on how they can increase the value of housing.
